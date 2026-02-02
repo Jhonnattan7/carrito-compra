@@ -1,4 +1,29 @@
-# React + Vite
+# Carrito de Compras - React
+
+Guía Práctica 2: Carrito de compras desarrollado con React utilizando componentes, hooks y gestión de estado.
+
+## Descripción
+
+Aplicación web de carrito de compras para guitarras que permite agregar productos, gestionar cantidades, eliminar items y calcular el total. El estado del carrito se persiste en localStorage.
+
+## Funcionalidades
+
+- Visualización de catálogo de productos
+- Agregar productos al carrito
+- Incrementar y decrementar cantidades
+- Eliminar productos del carrito
+- Vaciar carrito completo
+- Cálculo automático del total
+- Persistencia de datos en localStorage
+
+## Tecnologías
+
+- React con Hooks (useState, useEffect)
+- Vite como build tool
+- CSS para estilos
+- LocalStorage para persistencia
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
